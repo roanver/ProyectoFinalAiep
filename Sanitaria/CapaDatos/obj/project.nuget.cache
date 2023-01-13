@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iuh9RBu6htVv2Hexv/sQov14W5RsNwk4A+jOzxFgn1nFcKR365le+sVm2ZFkDD+8dMv67Dr1rTlScesZEhrxbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Botan\\OneDrive\\Escritorio\\aiep\\SisVentas\\Sanitaria\\CapaDatos\\CapaDatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Botan\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

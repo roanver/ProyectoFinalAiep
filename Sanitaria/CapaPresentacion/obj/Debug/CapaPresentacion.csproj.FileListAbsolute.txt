@@ -1,0 +1,15 @@
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRequerimiento.resources
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaRequerimientos.resources
+C:\Users\Botan\OneDrive\Escritorio\aiep\SisVentas\Sanitaria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLoginUser.resources
